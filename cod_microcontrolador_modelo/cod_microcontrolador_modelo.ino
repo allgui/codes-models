@@ -1,3 +1,5 @@
+//Código utilizado no Trabalho de Conclusão de Curso de Engenharia Elétrica na Universidade Federal do Amapá
+//Allan Guilherme Lima Pena
 float pinoSensorLuz = A0; //Define a porta analógica que fará a leitura do sensor LDR
 float valorLuz = 0;      //Variável que armazena os valores lidos pela porta analógica
 float valor;            //Variável que armazena os valores convertidos
