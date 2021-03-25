@@ -12,7 +12,7 @@ void setup() {
                                                 
   mySerial = new Serial(this, portName, 9600); //Configura a comunicação serial para a porta serial correta.
                                                //IMPORTANTE: A velocidade da comunicação serial deve ser a mesma utilizada no código
-                                               //do microcontrolador. Neste trabalho foram ambas utilizadas como 9600.
+                                               //do microcontrolador.
                                                
   output = createWriter( "Teste PID3.txt" );   //Cria o arquivo de formato .txt onde serão armazenados os valores lidos na porta serial.
 }
