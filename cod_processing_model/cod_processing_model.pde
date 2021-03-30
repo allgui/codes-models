@@ -1,5 +1,6 @@
 //Código utilizado no Trabalho de Conclusão de Curso de Engenharia Elétrica na Universidade Federal do Amapá
 //Allan Guilherme Lima Pena - allgui9696@gmail.com
+//Este código é referente ao esquema da Figura B-2 do trabalho escrito
 import processing.serial.*; //Biblioteca para comunicação serial com o microcontrolador
 Serial mySerial;           //Função da comunicação serial
 PrintWriter output;       //Função utilizada para escrever os dados no arquivo criado
