@@ -1,5 +1,6 @@
 //Código utilizado no Trabalho de Conclusão de Curso de Engenharia Elétrica na Universidade Federal do Amapá
 //Allan Guilherme Lima Pena - allgui9696@gmail.com
+//Este código é referente ao esquema da Figura B-2 do trabalho escrito
 //Para utilizar este código é necessário baixar uma biblioteca para a placa Arduino, carregar o código na placa e só então, utilizar
 //o código aqui descrito. O passo a passo pode ser visto no link: https://playground.arduino.cc/Interfacing/Processing/
 
